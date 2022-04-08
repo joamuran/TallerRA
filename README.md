@@ -8,3 +8,9 @@ Documentació per al taller de Realitat Augmentada per a la setmana cultural.
 Abans de començar amb el taller, necessitareu tindre les eines necessàries instal·lades, així com un Unity ID i estar registrats com a desenvolupadors del plugin Vuforia.
 
 Teniu informació de com fer-ho al [document següent](./PassosPrevis.md).
+
+>
+> **Important!**
+>
+> Caldrà que porteu també un cable per connectar el vostre mòbila a l'ordinador!
+>
