@@ -14,3 +14,7 @@ Teniu informació de com fer-ho al [document següent](./PassosPrevis.md).
 >
 > Caldrà que porteu també un cable per connectar el vostre mòbila a l'ordinador!
 >
+
+
+[1. Treballant amb Vuforia](./1.Vuforia.md)
+[2. Vuforia i Unity](./2.Unity.md)
